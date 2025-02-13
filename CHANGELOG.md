@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.3](https://github.com/Cap-go/capacitor-social-login/compare/2.0.2...2.0.3) (2025-02-13)
+
+
+### Bug Fixes
+
+* remove verify ios ([48471f9](https://github.com/Cap-go/capacitor-social-login/commit/48471f921c4a405fd96b9657a76b925e8cac29fb))
+
 ### [2.0.2](https://github.com/Cap-go/capacitor-social-login/compare/2.0.1...2.0.2) (2025-02-13)
 
 
