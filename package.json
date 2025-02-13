@@ -1,5 +1,5 @@
 {
-  "name": "@capgo/capacitor-social-login",
+  "name": "@rcastriotta/capacitor-social-login",
   "version": "2.0.1",
   "description": "All social logins in one plugin",
   "main": "dist/plugin.cjs.js",
